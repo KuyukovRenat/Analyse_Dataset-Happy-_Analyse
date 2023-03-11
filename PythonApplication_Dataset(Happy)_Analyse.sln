@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31410.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "PythonApplication_Dataset(Happy)_Analyse", "PythonApplication_Dataset(Happy)_Analyse.pyproj", "{3E6A2E77-CB56-47EF-AFEE-AF9564B3D833}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3E6A2E77-CB56-47EF-AFEE-AF9564B3D833}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3E6A2E77-CB56-47EF-AFEE-AF9564B3D833}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EF2658E4-0ADA-4C21-95B8-4179664F0DCD}
+	EndGlobalSection
+EndGlobal
